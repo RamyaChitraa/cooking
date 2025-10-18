@@ -26,5 +26,7 @@ reestar/
 │
 ├── index.html # Main HTML file
 └── style.css # External CSS file
+
 1. Clone this repository:
-2. 
+💻 GitHub Repository: https://github.com/RamyaChitraa/cooking
+🌍 Live Website: 
