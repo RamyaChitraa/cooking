@@ -29,4 +29,4 @@ reestar/
 
 1. Clone this repository:
 💻 GitHub Repository: https://github.com/RamyaChitraa/cooking
-🌍 Live Website: 
+🌍 Live Website: https://cooking-nsjy.vercel.app/
